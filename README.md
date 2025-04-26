@@ -1,9 +1,9 @@
-# Hi, I'm Jack Liu 👋
+# Hi, I'm Jack Liu 
 
 I'm a Computer Science student at the University of Michigan (graduating May 2025), passionate about software engineering and AI.  
 I'm known for my ability to rapidly learn new technologies, tackle complex problems, and stay highly motivated in fast-paced and unfamiliar environments.
 
-## 🚀 Projects
+## Projects
 - **[Insta485: Photo Sharing Web App](https://github.com/JackLiuyiyao/client-side-instagram)**  
   Built a full-stack Instagram-style application using Flask, React, AWS EC2. Supports user accounts, posts, likes, and followers.
 
@@ -16,7 +16,7 @@ I'm known for my ability to rapidly learn new technologies, tackle complex probl
 - **[Asteroid Collision Game](https://github.com/JackLiuyiyao/Asteroid-Collision-Game)**  
   Developed a 2D interactive asteroid collision game using JavaScript, HTML5 Canvas, and Object-Oriented Programming. Focused on real-time collision detection, smooth animations, and user-friendly controls.
 
-## 📫 Contact
+## Contact
 - Email: jack.yy0330@gmail.com
 - LinkedIn: [www.linkedin.com/in/jack-liu-27825b24a](https://www.linkedin.com/in/jack-liu-27825b24a)
 
