@@ -1,7 +1,7 @@
 # Hi, I'm Jack Liu 👋
 
 I'm a Computer Science student at the University of Michigan (graduating May 2025), passionate about software engineering and AI.  
-I'm known for my ability to rapidly learn new technologies, tackle complex problems, and stay highly motivated in fast-paced environments.
+I'm known for my ability to rapidly learn new technologies, tackle complex problems, and stay highly motivated in fast-paced and unfamiliar environments.
 
 ## 🚀 Projects
 - **[Insta485: Photo Sharing Web App](https://github.com/JackLiuyiyao/client-side-instagram)**  
